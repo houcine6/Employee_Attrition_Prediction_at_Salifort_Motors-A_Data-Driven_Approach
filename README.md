@@ -16,12 +16,12 @@ The analysis centered around the "HR_capstone_dataset.csv," encompassing ten col
 A Random Forest model was strategically deployed to discern the most influential features determining employee attrition. The resulting plot illuminates the paramount factors guiding employee departures, offering a clear visualization of the model's discernment.
 
 ## Random Forest Feature Importance
-![](random_forest.PNG).
+![](random_forest.png).
 
 Additionally, a Decision Tree model was harnessed to further evaluate feature importance. The ensuing plot showcases the selected features, revealing the intricacies of the Decision Tree's decision-making process.
 
 ## Decision Tree Feature Importance
-![](decision_tree.PNG).
+![](decision_tree.png).
 
 ## Conclusion
 The predictive power of these models equips Salifort Motors with the ability to forecast employee departures accurately and pinpoint the most significant contributing factors. Armed with these insights, the human resources team can proactively implement strategic initiatives, thus significantly enhancing employee retention and organizational stability.
