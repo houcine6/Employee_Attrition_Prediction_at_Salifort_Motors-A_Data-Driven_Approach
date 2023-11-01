@@ -10,7 +10,7 @@ Salifort Motors grapples with the critical challenge of employee retention, a co
 This project was meticulously crafted to provide Salifort Motors with precise data-driven insights and predictive models, empowering the company to make well-informed decisions concerning employee retention and engagement strategies.
 
 ## Data Understanding
-The analysis centered around the "HR_capstone_dataset.csv," encompassing ten columns of self-reported data from employees within a fictional multinational vehicle manufacturing corporation. This dataset, accessible on Kaggle, served as the foundation for our analysis, providing rich information for comprehensive exploration.
+The analysis centered around the "HR_capstone_dataset.csv," encompassing ten columns of self-reported data from employees within a fictional multinational vehicle manufacturing corporation. This dataset, accessible on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction), served as the foundation for our analysis, providing rich information for comprehensive exploration.
 
 ## Modeling and Evaluation
 A Random Forest model was strategically deployed to discern the most influential features determining employee attrition. The resulting plot illuminates the paramount factors guiding employee departures, offering a clear visualization of the model's discernment.
