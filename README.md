@@ -1,4 +1,4 @@
-# Retention_Intelligence-Improving_Employee_Retention_in_Salifort_Motors
+# Employee_Attrition_Prediction_at_Salifort_Motors-A_Data-Driven_Approach
 Explore our data-driven analysis on employee attrition at Salifort Motors. Utilizing advanced machine learning techniques, we predict and uncover the key factors influencing employee departures. Dive into our models, visualizations, and actionable insights to empower HR decisions and foster a satisfied workforce.
 
 # Project Overview
